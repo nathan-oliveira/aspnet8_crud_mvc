@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathan Oliveira\\OneDrive\\Documents\\PROGRAMACAO\\estudos\\csharp\\ClientesMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2141479-CCA9-41AF-BDE7-A3E4586DF9B7}|ClientesMvc\\ClientesMvc.csproj|c:\\users\\nathan oliveira\\onedrive\\documents\\programacao\\estudos\\csharp\\clientesmvc\\clientesmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2141479-CCA9-41AF-BDE7-A3E4586DF9B7}|ClientesMvc\\ClientesMvc.csproj|solutionrelative:clientesmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2141479-CCA9-41AF-BDE7-A3E4586DF9B7}|ClientesMvc\\ClientesMvc.csproj|c:\\users\\nathan oliveira\\onedrive\\documents\\programacao\\estudos\\csharp\\clientesmvc\\clientesmvc\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2141479-CCA9-41AF-BDE7-A3E4586DF9B7}|ClientesMvc\\ClientesMvc.csproj|solutionrelative:clientesmvc\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan Oliveira\\OneDrive\\Documents\\PROGRAMACAO\\estudos\\csharp\\ClientesMvc\\ClientesMvc\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ClientesMvc\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Nathan Oliveira\\OneDrive\\Documents\\PROGRAMACAO\\estudos\\csharp\\ClientesMvc\\ClientesMvc\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ClientesMvc\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAD4vzsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:37:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nathan Oliveira\\OneDrive\\Documents\\PROGRAMACAO\\estudos\\csharp\\ClientesMvc\\ClientesMvc\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClientesMvc\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nathan Oliveira\\OneDrive\\Documents\\PROGRAMACAO\\estudos\\csharp\\ClientesMvc\\ClientesMvc\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "ClientesMvc\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T20:24:55.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
